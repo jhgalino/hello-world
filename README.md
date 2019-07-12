@@ -1,2 +1,7 @@
 # hello-world
-This is an empty repository made to learn how to use Github.
+
+Hello. My name is John Henry Galino.
+
+Today, i'm learning how to use Git and Github. 
+
+I'll be sharing stuff soon. See you!
